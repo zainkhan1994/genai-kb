@@ -1,0 +1,1023 @@
+Severity
+Time
+Summary
+To view older entries:
+2025-05-01 21:18:06.319
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…/us-central1-c/disks/8068274683406550916
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:06.328
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…/us-central1-c/disks/1461571438249609092
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:06.917
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…/us-central1-c/disks/7289952276372359044
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:06.928
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…s/us-central1-c/disks/626058140055078788
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:08.102
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…central1-c/instances/2334156055169828740
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:08.537
+
+cloudresourcemanager.googleapis.com
+
+….TagBindingsBulk.SetTagsForResource
+
+…central1-c/instances/8000774723979544452
+
+service-236106255759@gcp-…
+audit_log, method: "google.cloud.resourcemanager.v3.TagBindingsBulk.SetTagsForResource", principal_email: "service-236106255759@gcp-sa-vertex-nb.iam.gserviceaccount.com"
+2025-05-01 21:18:26.281
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.620
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.662
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.690
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.714
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.743
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.764
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.812
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.849
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.875
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.900
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.923
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:29.943
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:30.959
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:31.772
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:31.846
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:31.889
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:31.928
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.839
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.881
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.903
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.939
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.968
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:33.991
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.043
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.081
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.098
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.122
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.150
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:34.164
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:35.284
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:35.349
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:35.382
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:18:35.412
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:20.886
+
+discoveryengine.googleapis.com
+
+…ha.DataStoreService.CreateDataStore
+
+…ns/global/collections/default_collection
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.discoveryengine.v1alpha.DataStoreService.CreateDataStore", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:19:23.372
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:26.706
+
+discoveryengine.googleapis.com
+
+….v1alpha.EngineService.CreateEngine
+
+…ns/global/collections/default_collection
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.discoveryengine.v1alpha.EngineService.CreateEngine", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:19:30.831
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:31.838
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2223111356293316608-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:34.844
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:41.439
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:19:42.329
+
+oslogin.googleapis.com
+
+…nDataPlaneService.ListLoginProfiles
+
+…s/pool-2721885015024599040-p-us-central1
+audit_log, method: "google.cloud.oslogin.dataplane.OsLoginDataPlaneService.ListLoginProfiles", principal_email: ""
+2025-05-01 21:22:09.297
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:09.320
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:09.328
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:09.347
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:09.356
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:09.666
+
+bigquery.googleapis.com
+
+jobservice.query
+
+projects/chatgpt-418315/queries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.query", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:10.315
+
+bigquery.googleapis.com
+
+jobservice.insert
+
+projects/chatgpt-418315/jobs
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:16.939
+
+bigquery.googleapis.com
+
+jobservice.insert
+
+projects/chatgpt-418315/jobs
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.133
+
+bigquery.googleapis.com
+
+jobservice.jobcompleted
+
+…-418315/jobs/bquxjob_b2f9983_1968f042c69
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.jobcompleted", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.134
+
+bigquery.googleapis.com
+
+…ud.bigquery.v2.JobService.InsertJob
+
+…-418315/jobs/bquxjob_b2f9983_1968f042c69
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.JobService.InsertJob", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.134
+
+bigquery.googleapis.com
+
+…ud.bigquery.v2.JobService.InsertJob
+
+…atasets/summary_dataset/tables/summaries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.JobService.InsertJob", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.137
+
+bigquery.googleapis.com
+
+jobservice.insert
+
+projects/chatgpt-418315/jobs
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.138
+
+bigquery.googleapis.com
+
+…ud.bigquery.v2.JobService.InsertJob
+
+…-418315/jobs/bquxjob_b2f9983_1968f042c69
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.JobService.InsertJob", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.415
+
+bigquery.googleapis.com
+
+jobservice.getqueryresults
+
+…8315/queries/bquxjob_b2f9983_1968f042c69
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.getqueryresults", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.594
+
+bigquery.googleapis.com
+
+tabledataservice.list
+
+…dda916d7c726c23347395d77a58e7d90189/data
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "tabledataservice.list", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:18.741
+
+bigquery.googleapis.com
+
+tabledataservice.list
+
+…dda916d7c726c23347395d77a58e7d90189/data
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "tabledataservice.list", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:33.009
+
+bigquery.googleapis.com
+
+tabledataservice.list
+
+…ts/summary_dataset/tables/summaries/data
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "tabledataservice.list", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:22:33.010
+
+bigquery.googleapis.com
+
+…d.bigquery.v2.TableDataService.List
+
+…atasets/summary_dataset/tables/summaries
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.TableDataService.List", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:24:18.370
+
+bigquery.googleapis.com
+
+datasetservice.insert
+
+projects/chatgpt-418315/datasets
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "datasetservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:24:18.371
+
+bigquery.googleapis.com
+
+…ery.v2.DatasetService.InsertDataset
+
+…ojects/chatgpt-418315/datasets/Blueprint
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.DatasetService.InsertDataset", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:24:43.552
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:25:32.917
+
+bigquery.googleapis.com
+
+tableservice.insert
+
+…chatgpt-418315/datasets/Blueprint/tables
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "tableservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:25:32.918
+
+bigquery.googleapis.com
+
+…igquery.v2.TableService.InsertTable
+
+…pt-418315/datasets/Blueprint/tables/Test
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.TableService.InsertTable", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:25:59.317
+
+bigquery.googleapis.com
+
+jobservice.insert
+
+projects/chatgpt-418315/jobs
+
+zainkhan1994.ZK@gmail.com…
+Syntax error: SELECT list must not be empty at [1:9]
+2025-05-01 21:26:00.984
+
+bigquery.googleapis.com
+
+jobservice.insert
+
+projects/chatgpt-418315/jobs
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "jobservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:29:15.143
+
+bigquery.googleapis.com
+
+datasetservice.insert
+
+projects/chatgpt-418315/datasets
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "datasetservice.insert", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:29:15.145
+
+bigquery.googleapis.com
+
+…ery.v2.DatasetService.InsertDataset
+
+…ects/chatgpt-418315/datasets/Blueprintv2
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.bigquery.v2.DatasetService.InsertDataset", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-01 21:29:49.245
+
+bigquery.googleapis.com
+
+tableservice.insert
+
+…atgpt-418315/datasets/Blueprintv2/tables
+
+zainkhan1994.ZK@gmail.com…
+Not found: Files /gdrive/home/Blueprint Outline
+2025-05-01 21:29:49.246
+
+bigquery.googleapis.com
+
+…igquery.v2.TableService.InsertTable
+
+…-418315/datasets/Blueprintv2/tables/Test
+
+zainkhan1994.ZK@gmail.com…
+Not found: Files /gdrive/home/Blueprint Outline
+2025-05-01 21:30:52.146
+
+bigquery.googleapis.com
+
+tableservice.insert
+
+…atgpt-418315/datasets/Blueprintv2/tables
+
+zainkhan1994.ZK@gmail.com…
+Not found: Files /gdrive/home/Blueprint Outline
+2025-05-01 21:30:52.147
+
+bigquery.googleapis.com
+
+…igquery.v2.TableService.InsertTable
+
+…-418315/datasets/Blueprintv2/tables/Test
+
+zainkhan1994.ZK@gmail.com…
+Not found: Files /gdrive/home/Blueprint Outline
+2025-05-02 11:20:26.619
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-02 15:35:10.694
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-02 17:49:36.159
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-03 18:36:50.479
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 14:40:19.045
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 14:44:24.148
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:00:50.931
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:04:43.958
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:16:59.318
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+List of found errors:	1.Field: deployed_index.id; Message: Deployed Index ID should start with a letter and contain only letters, numbers and underscores.	
+2025-05-04 17:17:24.596
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+List of found errors:	1.Field: deployed_index.id; Message: Deployed Index ID should start with a letter and contain only letters, numbers and underscores.	
+2025-05-04 17:18:00.746
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+List of found errors:	1.Field: deployed_index.id; Message: Deployed Index ID should start with a letter and contain only letters, numbers and underscores.	
+2025-05-04 17:18:27.450
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.aiplatform.v1.IndexEndpointService.DeployIndex", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:35:50.666
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.aiplatform.v1.IndexEndpointService.DeployIndex", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:35:51.789
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.aiplatform.v1.IndexEndpointService.DeployIndex", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 17:53:41.682
+
+aiplatform.googleapis.com
+
+…v1.IndexEndpointService.DeployIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.aiplatform.v1.IndexEndpointService.DeployIndex", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 21:37:30.500
+
+…v1.ServiceUsage.BatchEnableServices
+
+projects/chatgpt-418315/services
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:30.500
+
+serviceusage.googleapis.com
+
+…v1.ServiceUsage.BatchEnableServices
+
+projects/chatgpt-418315/services
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:30.747
+
+serviceusage.googleapis.com
+
+…longrunning.Operations.GetOperation
+
+…759-957eefb7-a308-4d63-ab47-132f3907d44e
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.longrunning.Operations.GetOperation", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:32.906
+
+serviceusage.googleapis.com
+
+…v1.ServiceUsage.BatchEnableServices
+
+projects/chatgpt-418315/services
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:32.906
+
+serviceusage.googleapis.com
+
+…v1.ServiceUsage.BatchEnableServices
+
+projects/chatgpt-418315/services
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:33.917
+
+serviceusage.googleapis.com
+
+…longrunning.Operations.GetOperation
+
+…759-957eefb7-a308-4d63-ab47-132f3907d44e
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.longrunning.Operations.GetOperation", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-04 21:37:35.165
+
+cloudaicompanion.googleapis.com
+
+….CreateDataSharingWithGoogleSetting
+
+…projects/chatgpt-418315/locations/global
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.cloudaicompanion.v1.DataSharingWithGoogleSettingService.CreateDataSharingWithGoogleSetting", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 21:37:36.531
+
+cloudresourcemanager.googleapis.com
+
+SetIamPolicy
+
+projects/chatgpt-418315
+
+service-agent-manager@sys…
+audit_log, method: "SetIamPolicy", principal_email: "service-agent-manager@system.gserviceaccount.com"
+2025-05-04 21:37:37.269
+
+cloudaicompanion.googleapis.com
+
+…SettingService.CreateSettingBinding
+
+…SharingWithGoogleSettings/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.cloudaicompanion.v1.DataSharingWithGoogleSettingService.CreateSettingBinding", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 21:37:37.566
+
+cloudaicompanion.googleapis.com
+
+…SettingService.CreateSettingBinding
+
+…pt-418315/settingBindings/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "google.cloud.cloudaicompanion.v1.DataSharingWithGoogleSettingService.CreateSettingBinding", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-04 21:58:03.587
+
+aiplatform.googleapis.com
+
+…EndpointService.MutateDeployedIndex
+
+…tral1/indexEndpoints/3898149151489130496
+
+zainkhan1994.ZK@gmail.com…
+Unexpected fields changes: no changes. MutateDeployedIndex API only supports updating [enable_access_logging, deployed_index_auth_config, dedicated_resources, automatic_resources].
+2025-05-04 23:15:00.155
+
+cloudresourcemanager.googleapis.com
+
+SearchProjects
+
+projects/chatgpt-418315
+
+zainkhan1994.ZK@gmail.com…
+audit_log, method: "SearchProjects", principal_email: "zainkhan1994.ZK@gmail.com"
+2025-05-05 21:20:32.320
+
+serviceusage.googleapis.com
+
+…usage.v1.ServiceUsage.EnableService
+
+…/services/storageinsights.googleapis.com
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.EnableService", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-05 21:20:32.548
+
+serviceusage.googleapis.com
+
+…longrunning.Operations.GetOperation
+
+…759-ff46c530-96e8-4bbf-915d-a9c56640e6ba
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.longrunning.Operations.GetOperation", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-05 21:20:34.451
+
+serviceusage.googleapis.com
+
+…usage.v1.ServiceUsage.EnableService
+
+…/services/storageinsights.googleapis.com
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.api.serviceusage.v1.ServiceUsage.EnableService", principal_email: "zainkhan1994.zk@gmail.com"
+2025-05-05 21:20:35.717
+
+serviceusage.googleapis.com
+
+…longrunning.Operations.GetOperation
+
+…759-ff46c530-96e8-4bbf-915d-a9c56640e6ba
+
+zainkhan1994.zk@gmail.com…
+audit_log, method: "google.longrunning.Operations.GetOperation", principal_email: "zainkhan1994.zk@gmail.com"
+To view newer entries:
